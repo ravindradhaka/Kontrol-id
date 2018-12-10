@@ -65,7 +65,8 @@ app.post('/edit_roster',routes.roaster);
 app.post('/add_rule',routes.rules);
 app.post('/attendance',routes.attendance);
 // app.post('/test', routes.ProductSchema);
-mongoose.connect('mongodb://localhost:27017/node-test');
+mongoose.connect('mongodb://localhost:27017/node-test',{ useNewUrlParser: true });
+
 let db = mongoose.connection;
 let products = require('./routes/products');
 app.post('/register', products);

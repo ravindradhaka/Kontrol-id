@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+  <country><id>1</id><name>Afghanistan</name><code-1>+93</code-1></country>
+  <country><id>2</id><name>Albania</name><code-1>+355</code-1></country>
+  <country><id>3</id><name>Algeria</name><code-1>+213</code-1></country>
+  <country><id>4</id><name>American Samoa</name><code-1>+1-684</code-1></country>
+  <country><id>5</id><name>Andorra</name><code-1>+376</code-1></country>
+  <country><id>6</id><name>Angola</name><code-1>+244</code-1></country>
+  <country><id>7</id><name>Anguilla</name><code-1>+1-264</code-1></country>
+  <country><id>8</id><name>Antarctica</name><code-1>+672</code-1></country>
+  <country><id>9</id><name>Antigua and Barbuda</name><code-1>+1-268</code-1></country>
+  <country><id>10</id><name>Argentina</name><code-1>+54</code-1></country>
+  <country><id>11</id><name>Armenia</name><code-1>+374</code-1></country>
+  <country><id>12</id><name>Aruba</name><code-1>+297</code-1></country>
+  <country><id>13</id><name>Australia</name><code-1>+61</code-1></country>
+  <country><id>14</id><name>Austria</name><code-1>+43</code-1></country>
+  <country><id>15</id><name>Azerbaijan</name><code-1>+994</code-1></country>
+  <country><id>16</id><name>Bahamas</name><code-1>+1-242</code-1></country>
+  <country><id>17</id><name>Bahrain</name><code-1>+973</code-1></country>
+  <country><id>18</id><name>Bangladesh</name><code-1>+880</code-1></country>
+  <country><id>19</id><name>Barbados</name><code-1>+1-246</code-1></country>
+  <country><id>20</id><name>Belarus</name><code-1>+375</code-1></country>
+  <country><id>21</id><name>Belgium</name><code-1>+32</code-1></country>
+  <country><id>22</id><name>Belize</name><code-1>+501</code-1></country>
+  <country><id>23</id><name>Benin</name><code-1>+229</code-1></country>
+  <country><id>24</id><name>Bermuda</name><code-1>+1-441</code-1></country>
+  <country><id>25</id><name>Bhutan</name><code-1>+975</code-1></country>
+  <country><id>26</id><name>Bolivia</name><code-1>+591</code-1></country>
+  <country><id>27</id><name>Bosnia and Herzegovina</name><code-1>+387</code-1></country>
+  <country><id>28</id><name>Botswana</name><code-1>+267</code-1></country>
+  <country><id>29</id><name>Brazil</name><code-1>+55</code-1></country>
+  <country><id>30</id><name>Brunei</name><code-1>+673</code-1></country>
+  <country><id>31</id><name>Bulgaria</name><code-1>+359</code-1></country>
+  <country><id>32</id><name>Burkina Faso</name><code-1>+226</code-1></country>
+  <country><id>33</id><name>Burundi</name><code-1>+257</code-1></country>
+  <country><id>34</id><name>Cambodia</name><code-1>+855</code-1></country>
+  <country><id>35</id><name>Cameroon</name><code-1>+237</code-1></country>
+  <country><id>36</id><name>Canada</name><code-1>+1</code-1></country>
+  <country><id>37</id><name>Cape Verde</name><code-1>+238</code-1></country>
+  <country><id>38</id><name>Cayman Islands</name><code-1>+1-345</code-1></country>
+  <country><id>39</id><name>Central African Republic</name><code-1>+236</code-1></country>
+  <country><id>40</id><name>Chad</name><code-1>+235</code-1></country>
+  <country><id>41</id><name>Chile</name><code-1>+56</code-1></country>
+  <country><id>42</id><name>China</name><code-1>+86</code-1></country>
+  <country><id>43</id><name>Christmas Island</name><code-1>+53</code-1></country>
+  <country><id>44</id><name>Cocos Islands</name><code-1>+61</code-1></country>
+  <country><id>45</id><name>Colombia</name><code-1>+57</code-1></country>
+  <country><id>46</id><name>Comoros</name><code-1>+269</code-1></country>
+  <country><id>47</id><name>Congo (Kinshasa)</name><code-1>+243</code-1></country>
+  <country><id>48</id><name>Congo (Brazzaville)</name><code-1>+242</code-1></country>
+  <country><id>49</id><name>Cook Islands</name><code-1>+682</code-1></country>
+  <country><id>50</id><name>Costa Rica</name><code-1>+506</code-1></country>
+  <country><id>51</id><name>Cote D'Ivoire</name><code-1>+225</code-1></country>
+  <country><id>52</id><name>Croatia</name><code-1>+385</code-1></country>
+  <country><id>53</id><name>Cuba</name><code-1>+53</code-1></country>
+  <country><id>54</id><name>Cyprus</name><code-1>+357</code-1></country>
+  <country><id>55</id><name>Czech Republic</name><code-1>+420</code-1></country>
+  <country><id>56</id><name>Denmark</name><code-1>+45</code-1></country>
+  <country><id>57</id><name>Djibouti</name><code-1>+253</code-1></country>
+  <country><id>58</id><name>Dominica</name><code-1>+1-767</code-1></country>
+  <country><id>59</id><name>Dominican Republic</name><code-1>+1-809</code-1><code-2>+1-829 </code-2></country>
+  <country><id>60</id><name>East Timor</name><code-1>+670</code-1></country>
+  <country><id>61</id><name>Ecuador</name><code-1>+593</code-1></country>
+  <country><id>62</id><name>Egypt</name><code-1>+20</code-1></country>
+  <country><id>63</id><name>El Salvador</name><code-1>+503</code-1></country>
+  <country><id>64</id><name>Equatorial Guinea</name><code-1>+240</code-1></country>
+  <country><id>65</id><name>Eritrea</name><code-1>+291</code-1></country>
+  <country><id>66</id><name>Estonia</name><code-1>+372</code-1></country>
+  <country><id>67</id><name>Ethiopia</name><code-1>+251</code-1></country>
+  <country><id>68</id><name>Falkland Islands</name><code-1>+500</code-1></country>
+  <country><id>69</id><name>Faroe Islands</name><code-1>+298</code-1></country>
+  <country><id>70</id><name>Fiji</name><code-1>+679</code-1></country>
+  <country><id>71</id><name>Finland</name><code-1>+358</code-1></country>
+  <country><id>72</id><name>France</name><code-1>+33</code-1></country>
+  <country><id>73</id><name>French Guiana</name><code-1>+594</code-1></country>
+  <country><id>74</id><name>French Polynesia</name><code-1>+689</code-1></country>
+  <country><id>75</id><name>Gabon</name><code-1>+241</code-1></country>
+  <country><id>76</id><name>Gambia</name><code-1>+220</code-1></country>
+  <country><id>77</id><name>Georgia</name><code-1>+995</code-1></country>
+  <country><id>78</id><name>Germany</name><code-1>+49</code-1></country>
+  <country><id>79</id><name>Ghana</name><code-1>+233</code-1></country>
+  <country><id>80</id><name>Gibraltar</name><code-1>+350</code-1></country>
+  <country><id>81</id><name>Greece</name><code-1>+30</code-1></country>
+  <country><id>82</id><name>Greenland</name><code-1>+299</code-1></country>
+  <country><id>83</id><name>Grenada</name><code-1>+1-473</code-1></country>
+  <country><id>84</id><name>Guadeloupe</name><code-1>+590</code-1></country>
+  <country><id>85</id><name>Guam</name><code-1>+1-671</code-1></country>
+  <country><id>86</id><name>Guatemala</name><code-1>+502</code-1></country>
+  <country><id>87</id><name>Guinea</name><code-1>+224</code-1></country>
+  <country><id>88</id><name>Guinea-Bissau</name><code-1>+245</code-1></country>
+  <country><id>89</id><name>Guyana</name><code-1>+592</code-1></country>
+  <country><id>90</id><name>Haiti</name><code-1>+509</code-1></country>
+  <country><id>91</id><name>Honduras</name><code-1>+504</code-1></country>
+  <country><id>92</id><name>Hong Kong</name><code-1>+852</code-1></country>
+  <country><id>93</id><name>Hungary</name><code-1>+36</code-1></country>
+  <country><id>94</id><name>Iceland</name><code-1>+354</code-1></country>
+  <country><id>95</id><name>India</name><code-1>+91</code-1></country>
+  <country><id>96</id><name>Heard Island and McDonald Islands</name><code-1>+62</code-1></country>
+  <country><id>97</id><name>Iran</name><code-1>+98</code-1></country>
+  <country><id>98</id><name>Iraq</name><code-1>+964</code-1></country>
+  <country><id>99</id><name>Ireland</name><code-1>+353</code-1></country>
+  <country><id>100</id><name>Israel</name><code-1>+972</code-1></country>
+  <country><id>101</id><name>Italy</name><code-1>+39</code-1></country>
+  <country><id>102</id><name>Jamaica</name><code-1>+1-876</code-1></country>
+  <country><id>103</id><name>Japan</name><code-1>+81</code-1></country>
+  <country><id>104</id><name>Jordan</name><code-1>+962</code-1></country>
+  <country><id>105</id><name>Kazakstan</name><code-1>+7</code-1></country>
+  <country><id>106</id><name>Kenya</name><code-1>+254</code-1></country>
+  <country><id>107</id><name>Kiribati</name><code-1>+686</code-1></country>
+  <country><id>108</id><name>Korea, Republic of (North)</name><code-1>+850</code-1></country>
+  <country><id>109</id><name>Korea, Republic of (South)</name><code-1>+82</code-1></country>
+  <country><id>110</id><name>Kuwait</name><code-1>+965</code-1></country>
+  <country><id>111</id><name>Kyrgyzstan</name><code-1>+996</code-1></country>
+  <country><id>112</id><name>Laos</name><code-1>+856</code-1></country>
+  <country><id>113</id><name>Latvia</name><code-1>+371</code-1></country>
+  <country><id>114</id><name>Lebanon</name><code-1>+961</code-1></country>
+  <country><id>115</id><name>Lesotho</name><code-1>+266</code-1></country>
+  <country><id>116</id><name>Liberia</name><code-1>+231</code-1></country>
+  <country><id>117</id><name>Libya</name><code-1>+218</code-1></country>
+  <country><id>118</id><name>Liechtenstein</name><code-1>+423</code-1></country>
+  <country><id>119</id><name>Lithuania</name><code-1>+370</code-1></country>
+  <country><id>120</id><name>Luxembourg</name><code-1>+352</code-1></country>
+  <country><id>121</id><name>Macau</name><code-1>+853</code-1></country>
+  <country><id>122</id><name>Macedonia</name><code-1>+389</code-1></country>
+  <country><id>123</id><name>Madagascar</name><code-1>+261</code-1></country>
+  <country><id>124</id><name>Malawi</name><code-1>+265</code-1></country>
+  <country><id>125</id><name>Malaysia</name><code-1>+60</code-1></country>
+  <country><id>126</id><name>Maldives</name><code-1>+960</code-1></country>
+  <country><id>127</id><name>Mali</name><code-1>+223</code-1></country>
+  <country><id>128</id><name>Malta</name><code-1>+356</code-1></country>
+  <country><id>129</id><name>Marshall Islands</name><code-1>+692</code-1></country>
+  <country><id>130</id><name>Martinique</name><code-1>+596</code-1></country>
+  <country><id>131</id><name>Mauritania</name><code-1>+222</code-1></country>
+  <country><id>132</id><name>Mauritius</name><code-1>+230</code-1></country>
+  <country><id>133</id><name>Mayotte</name><code-1>+269</code-1></country>
+  <country><id>134</id><name>Mexico</name><code-1>+52</code-1></country>
+  <country><id>135</id><name>Micronesia</name><code-1>+691</code-1></country>
+  <country><id>136</id><name>Moldova</name><code-1>+373</code-1></country>
+  <country><id>137</id><name>Monaco</name><code-1>+377</code-1></country>
+  <country><id>138</id><name>Mongolia</name><code-1>+976</code-1></country>
+  <country><id>139</id><name>Montserrat</name><code-1>+1-664</code-1></country>
+  <country><id>140</id><name>Morocco</name><code-1>+212</code-1></country>
+  <country><id>141</id><name>Mozambique</name><code-1>+258</code-1></country>
+  <country><id>142</id><name>Myanmar</name><code-1>+95</code-1></country>
+  <country><id>143</id><name>Namibia</name><code-1>+264</code-1></country>
+  <country><id>144</id><name>Nauru</name><code-1>+674</code-1></country>
+  <country><id>145</id><name>Nepal</name><code-1>+977</code-1></country>
+  <country><id>146</id><name>Netherlands</name><code-1>+31</code-1></country>
+  <country><id>147</id><name>Netherlands Antilles</name><code-1>+599</code-1></country>
+  <country><id>148</id><name>New Caledonia</name><code-1>+687</code-1></country>
+  <country><id>149</id><name>New Zealand</name><code-1>+64</code-1></country>
+  <country><id>150</id><name>Nicaragua</name><code-1>+505</code-1></country>
+  <country><id>151</id><name>Niger</name><code-1>+227</code-1></country>
+  <country><id>152</id><name>Nigeria</name><code-1>+234</code-1></country>
+  <country><id>153</id><name>Niue</name><code-1>+683</code-1></country>
+  <country><id>154</id><name>Norfolk Island</name><code-1>+672</code-1></country>
+  <country><id>155</id><name>Northern Mariana Islands</name><code-1>+1-670</code-1></country>
+  <country><id>156</id><name>Norway</name><code-1>+47</code-1></country>
+  <country><id>157</id><name>Oman</name><code-1>+968</code-1></country>
+  <country><id>158</id><name>Pakistan</name><code-1>+92</code-1></country>
+  <country><id>159</id><name>Palau</name><code-1>+680</code-1></country>
+  <country><id>160</id><name>Palestinian</name><code-1>+970</code-1></country>
+  <country><id>161</id><name>Panama</name><code-1>+507</code-1></country>
+  <country><id>162</id><name>Papua New Guinea</name><code-1>+675</code-1></country>
+  <country><id>163</id><name>Paraguay</name><code-1>+595</code-1></country>
+  <country><id>164</id><name>Peru</name><code-1>+51</code-1></country>
+  <country><id>165</id><name>Philippines</name><code-1>+63</code-1></country>
+  <country><id>166</id><name>Poland</name><code-1>+48</code-1></country>
+  <country><id>167</id><name>Portugal</name><code-1>+351</code-1></country>
+  <country><id>168</id><name>Puerto Rico</name><code-1>+1-787</code-1><code-2>+1-939</code-2></country>
+  <country><id>169</id><name>Qatar</name><code-1>+974</code-1></country>
+  <country><id>170</id><name>Reunion and Mayotte</name><code-1>+262</code-1></country>
+  <country><id>171</id><name>Romania</name><code-1>+40</code-1></country>
+  <country><id>172</id><name>Russian Federation</name><code-1>+7</code-1></country>
+  <country><id>173</id><name>Rwanda</name><code-1>+250</code-1></country>
+  <country><id>174</id><name>Saint Helena</name><code-1>+290</code-1></country>
+  <country><id>175</id><name>Saint Kitts and Nevis</name><code-1>+1-869</code-1></country>
+  <country><id>176</id><name>Saint Lucia</name><code-1>+1-758</code-1></country>
+  <country><id>177</id><name>Saint Pierre and Miquelon</name><code-1>+508</code-1></country>
+  <country><id>178</id><name>Saint Vincent and the Grenadines</name><code-1>+1-784</code-1></country>
+  <country><id>179</id><name>Samoa</name><code-1>+685</code-1></country>
+  <country><id>180</id><name>San Marino</name><code-1>+378</code-1></country>
+  <country><id>181</id><name>Sao Tome and Principe</name><code-1>+239</code-1></country>
+  <country><id>182</id><name>Saudi Arabia</name><code-1>+966</code-1></country>
+  <country><id>183</id><name>Senegal</name><code-1>+221</code-1></country>
+  <country><id>184</id><name>Seychelles</name><code-1>+248</code-1></country>
+  <country><id>185</id><name>Sierra Leone</name><code-1>+232</code-1></country>
+  <country><id>186</id><name>Singapore</name><code-1>+65</code-1></country>
+  <country><id>187</id><name>Slovakia</name><code-1>+421</code-1></country>
+  <country><id>188</id><name>Slovenia</name><code-1>+386</code-1></country>
+  <country><id>189</id><name>Solomon Islands</name><code-1>+677</code-1></country>
+  <country><id>190</id><name>Somalia</name><code-1>+252</code-1></country>
+  <country><id>191</id><name>South Africa</name><code-1>+27</code-1></country>
+  <country><id>192</id><name>Spain</name><code-1>+34</code-1></country>
+  <country><id>193</id><name>Sri Lanka</name><code-1>+94</code-1></country>
+  <country><id>194</id><name>Sudan</name><code-1>+249</code-1></country>
+  <country><id>195</id><name>Suriname</name><code-1>+597</code-1></country>
+  <country><id>196</id><name>Swaziland</name><code-1>+268</code-1></country>
+  <country><id>197</id><name>Sweden</name><code-1>+46</code-1></country>
+  <country><id>198</id><name>Switzerland</name><code-1>+41</code-1></country>
+  <country><id>199</id><name>Syria</name><code-1>+963</code-1></country>
+  <country><id>200</id><name>Taiwan</name><code-1>+886</code-1></country>
+  <country><id>201</id><name>Tajikistan</name><code-1>+992</code-1></country>
+  <country><id>202</id><name>Thailand</name><code-1>+66</code-1></country>
+  <country><id>203</id><name>Tokelau</name><code-1>+690</code-1></country>
+  <country><id>204</id><name>Tonga</name><code-1>+676</code-1></country>
+  <country><id>205</id><name>Trinidad and Tobago</name><code-1>+1-868</code-1></country>
+  <country><id>206</id><name>Tunisia</name><code-1>+216</code-1></country>
+  <country><id>207</id><name>Turkey</name><code-1>+90</code-1></country>
+  <country><id>208</id><name>Turkmenistan</name><code-1>+993</code-1></country>
+  <country><id>209</id><name>Turks and Caicos Islands</name><code-1>+1-649</code-1></country>
+  <country><id>210</id><name>Tuvalu</name><code-1>+688</code-1></country>
+  <country><id>211</id><name>Uganda</name><code-1>+256</code-1></country>
+  <country><id>212</id><name>Ukraine</name><code-1>+380</code-1></country>
+  <country><id>213</id><name>United Arab Emirates (UAE)</name><code-1>+971</code-1></country>
+  <country><id>214</id><name>United Kingdom</name><code-1>+44</code-1></country>
+  <country><id>215</id><name>United States</name><code-1>+1</code-1></country>
+  <country><id>216</id><name>Uruguay</name><code-1>+598</code-1></country>
+  <country><id>217</id><name>Uzbekistan</name><code-1>+998</code-1></country>
+  <country><id>218</id><name>Vanuatu</name><code-1>+678</code-1></country>
+  <country><id>219</id><name>Vatican City State</name><code-1>+418</code-1></country>
+  <country><id>220</id><name>Venezuela</name><code-1>+58</code-1></country>
+  <country><id>221</id><name>Vietnam</name><code-1>+84</code-1></country>
+  <country><id>222</id><name>Virgin Islands</name><code-1>+1-284</code-1></country>
+  <country><id>223</id><name>Virgin Islands</name><code-1>+1-340</code-1></country>
+  <country><id>224</id><name>Wallis and Futuna Islands</name><code-1>+681</code-1></country>
+  <country><id>225</id><name>Yemen</name><code-1>+967</code-1></country>
+  <country><id>226</id><name>Zambia</name><code-1>+260</code-1></country>
+  <country><id>227</id><name>Zimbabwe</name><code-1>+263</code-1></country>
+</country>
